@@ -79,4 +79,6 @@ var Distance = (function() {
             console.log(exception);
         }
     };
+
+    return Distance;
 })();
